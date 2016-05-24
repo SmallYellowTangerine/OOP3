@@ -1,0 +1,10 @@
+D:\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe.config
+D:\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Form1.resources
+D:\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Properties.Resources.resources
+D:\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.GenerateResource.Cache
+D:\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe
+D:\OOPLab3\OOPLab3\bin\Debug\OOPLab3.pdb
+D:\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+D:\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb
+D:\OOPLab3\OOPLab3\bin\Debug\Newtonsoft.Json.dll
+D:\OOPLab3\OOPLab3\bin\Debug\Newtonsoft.Json.xml
